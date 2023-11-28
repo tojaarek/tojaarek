@@ -7,4 +7,4 @@ My journey with software development began when I was managing my marketplace fo
 
 #### Tech stack I'm familiar with
 
-![React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
